@@ -4,7 +4,7 @@
   "license": "AGPL-3.0",
   "copyright": "Copyright 2026 pbolt-dev contributors and Passbolt SA",
   "description": "pbolt styleguide contains common styling assets used by pbolt browser extensions, web interfaces, and apps.",
-  "homepage": "https://github.com/pbolt-dev",
+  "homepage": "https://doc.pbolt.dev",
   "repository": "https://github.com/pbolt-dev/pbolt-styleguide",
   "engines": {
     "node": ">=22.14.0",
