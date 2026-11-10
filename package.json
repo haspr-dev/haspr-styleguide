@@ -103,6 +103,7 @@
     }
   },
   "scripts": {
+    "prepare": "npm run build",
     "build": "webpack",
     "test": "npm run test:unit",
     "test:unit": "jest --no-cache ./src",
