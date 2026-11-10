@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pbolt-dev/.github/main/assets/pbolt-logo.svg" alt="pbolt logo" width="140" height="140" />
+  <img src="https://raw.githubusercontent.com/haspr-dev/.github/main/assets/haspr-logo.svg" alt="Haspr logo" width="140" height="140" />
 </p>
 
-<h1 align="center">pbolt-styleguide</h1>
+<h1 align="center">haspr-styleguide</h1>
 
 <p align="center">
-  <strong>Shared UI assets, styles, themes, and React components for the pbolt ecosystem.</strong>
+  <strong>Shared UI assets, styles, themes, and React components for the Haspr ecosystem.</strong>
 </p>
 
 ---
 
-## ⚡ About pbolt styleguide
+## ⚡ About Haspr styleguide
 
-The `pbolt-styleguide` contains UI styling, themes, icons, and components shared across **pbolt** client applications, including the browser extension and web interfaces.
+The `haspr-styleguide` contains UI styling, themes, icons, and components shared across **Haspr** client applications, including the browser extension and web interfaces.
 
-For more details on the pbolt ecosystem, visit [github.com/pbolt-dev](https://github.com/pbolt-dev).
+For more details on the Haspr ecosystem, visit [github.com/haspr-dev](https://github.com/haspr-dev).
 
 ---
 
 ## ⚖️ Trademark Notice
 
-*Passbolt is a registered trademark of Passbolt SA. **pbolt** is an independent community project and is not affiliated with, endorsed by, or sponsored by Passbolt SA.*
+*Passbolt is a registered trademark of Passbolt SA. **Haspr** is an independent community project and is not affiliated with, endorsed by, or sponsored by Passbolt SA.*
 
 ---
 

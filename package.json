@@ -1,11 +1,11 @@
 {
-  "name": "pbolt-styleguide",
+  "name": "haspr-styleguide",
   "version": "5.17.2",
   "license": "AGPL-3.0",
-  "copyright": "Copyright 2026 pbolt-dev contributors and Passbolt SA",
-  "description": "pbolt styleguide contains common styling assets used by pbolt browser extensions, web interfaces, and apps.",
-  "homepage": "https://doc.pbolt.dev",
-  "repository": "https://github.com/pbolt-dev/pbolt-styleguide",
+  "copyright": "Copyright 2026 haspr-dev contributors and Passbolt SA",
+  "description": "haspr styleguide contains common styling assets used by Haspr browser extensions, web interfaces, and apps.",
+  "homepage": "https://doc.haspr.dev",
+  "repository": "https://github.com/haspr-dev/haspr-styleguide",
   "engines": {
     "node": ">=22.14.0",
     "npm": ">=10.9.2"
